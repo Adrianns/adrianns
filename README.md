@@ -1,11 +1,10 @@
 # Adrian Medina
 ### Mobile Engineer
 
-Adrián Medina has 11 years of experience working in several projects
-with agile working methodologies. He has developed web and mobile applications related to different
-fields and within a wide range of libraries and frameworks. With experience in team leadership, cross
-teamwork, and with scalable challenges. His latest achievement was to position himself as a Focal Tech
-Lead to advise, help and train on everything related to Flutter, the Google SDK.
+📱💻 I am a Senior Developer with 11 years of experience.
+🌎🗺️ Currently, I work as an independent contractor, providing my clients with high-quality software solutions.
+🫂💪 I have led and been part of teams, facing scalability challenges and providing advice, support, and training.
+📚🎓 I am constantly motivated by learning about software engineering and sharing the knowledge acquired, this helps me improve my skills and contribute to the technological community
 
 
 ## Soft Skills
